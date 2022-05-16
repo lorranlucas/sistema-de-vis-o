@@ -1,7 +1,7 @@
 import cv2
  
 
-img = cv2.imread('imagem/3.png',1)
+img = cv2.imread('imagem/exemple.png',1)
 img = cv2.resize(img, [400,400])
 
 x1 = 10
